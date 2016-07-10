@@ -1,2 +1,3 @@
 "# Windows-Programming-Labs" 
-"Laboratories developped for a university course of system programming" 
+
+Some laboratories developed for a System Programming university course plus some other code examples written to better learn theoretical stuff.
